@@ -1,0 +1,5 @@
+admin,Admin User,admin
+student1,Suraj Mehta,student
+Divya,Divyashi Karna,student
+Suda123,Sudan Pudasaini,admin
+Krish,Krishna Yadav,student
